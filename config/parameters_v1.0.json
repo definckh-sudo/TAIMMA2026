@@ -1,0 +1,13 @@
+{
+  "parameter_version": "v1.0",
+  "source": "Feedback 3 (GVHD) - muc 3 Bang tham so khoa v1.0",
+  "amm":       {"f": 0.003, "X0": 1000.0, "Y0": 10000.0, "_type": {"f": "Hieu chinh (Uniswap v2)", "X0_Y0": "Thiet ke"}},
+  "markets":   {"asia": {"base_price": 10.0}, "europe": {"base_price": 13.0}},
+  "npc":       {"alpha": 0.3, "threshold": 0.02, "cap_share_of_Y": 0.10},
+  "quality":   {"lambda": 0.01, "rho_cold": 0.5, "C_cold": 0.4, "s_min": 0.85, "salvage": 0.0},
+  "route_asia_europe": {"c_ship": 0.5, "tau": 0.08},
+  "capital":   {"r_c": 0.002},
+  "hint":      {"port_alert_fp": 0.15, "port_alert_fn": 0.15, "price_trend_band": 0.02},
+  "player":    {"start_cash": 2000.0},
+  "game":      {"rounds": 15, "max_port_delay": 4}
+}

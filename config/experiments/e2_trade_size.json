@@ -1,0 +1,2 @@
+{"experiment_id": "E2", "purpose": "H3", "P_m_asia": 14.0, "grid": {"start": 0, "stop": 4000, "step": 10},
+ "fees": [0.0, 0.003], "pools": [[1000, 10000], [800, 8000]], "noise_sigma": 0.10, "N": 2000, "seed": 20261106}

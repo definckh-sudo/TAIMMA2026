@@ -1,0 +1,9 @@
+{
+  "scenario_id": "baseline",
+  "scenario_version": "v1.0",
+  "description": "Kich ban doi chung cho H1: 15 vong, moi he so = 1, p_port = 0, khong pool-depth shock (D4).",
+  "phases": [
+    {"phase": 1, "rounds": [1, 15], "M_price": 1.0, "sigma": 0.03, "T_base": 6, "ship_mult": 1.0,
+     "lambda_mult": 1.0, "export_fee": 0.0, "p_port": 0.0, "pool_scale_on_enter": 1.0, "p_false_price": 0.0}
+  ]
+}

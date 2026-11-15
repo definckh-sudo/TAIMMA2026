@@ -1,0 +1,4 @@
+{"experiment_id": "E3", "purpose": "Do vung H1, H2", "N_per_cell": 2000, "seed": 20261106,
+ "heatmap": {"ship_mult": [1.0, 3.0, 0.25], "lambda_mult": [1.0, 2.0, 0.125]},
+ "one_way": {"s_min": [0.80, 0.90], "delta_port": [1, 2], "salvage": [0.0, 0.3, 0.5],
+             "alpha": [0.1, 0.5], "r_c": [0.0, 0.005], "T_rounding": ["ceil", "round"]}}

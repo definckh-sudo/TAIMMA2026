@@ -1,0 +1,3 @@
+{"experiment_id": "E1", "purpose": "H1, H2", "scenarios": ["baseline", "pandemic"],
+ "strategies": ["S1", "S2", "S3", "S4"], "budgets": [100, 500, 1000], "decision_round": 5,
+ "N": 10000, "seed": 20261106, "cvar_level": 0.05, "bootstrap": 2000, "common_random_numbers": true}
